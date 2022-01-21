@@ -1,0 +1,34 @@
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe.config
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojAssemblyReference.cache
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Form1.resources
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Properties.Resources.resources
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.cache
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.perguntas.resources
+C:\Users\alive\Documents\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Desafio.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe.config
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Desafio.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Form1.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.perguntas.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe.config
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.exe
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\bin\Debug\Tabuleiro.pdb
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Desafio.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Form1.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.perguntas.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Guerra de Perguntas (1)\Guerra de Perguntas (1)\Tabuleiro\Tabuleiro\obj\Debug\Tabuleiro.csproj.GenerateResource.Cache
